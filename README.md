@@ -1,2 +1,2 @@
-# pubsub
-Pub/Sub module for Magento2
+# Magento 2 Pub/Sub
+Pub/Sub module for Magento 2

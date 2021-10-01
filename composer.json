@@ -1,0 +1,22 @@
+{
+  "name": "n0kit31/module-pub-sub",
+  "description": "M2 module for Google Pub/Sub",
+  "type": "magento2-module",
+  "require": {
+    "php": "7.*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "N0kit31\\Pubsub\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Marcin Krzyżanowski",
+      "email": "marcin@it-krzyzanowski.pl"
+    }
+  ]
+}
